@@ -12,9 +12,10 @@ Currently this contains the following pluggins:
 * pyflakes
 
 
-
 Supported File types:
+
 * Markdown
 
 Colorthemes:
+
 * Xorium
